@@ -1,0 +1,11 @@
+[INFO ] 2024-08-09 08:56:25.619 [main] StudentRegistrationForm - First name field was populated
+[INFO ] 2024-08-09 08:56:25.718 [main] StudentRegistrationForm - Last name field was populated
+[INFO ] 2024-08-09 08:56:25.854 [main] StudentRegistrationForm - User e-mail field was populated
+[INFO ] 2024-08-09 08:56:26.404 [main] StudentRegistrationForm - Date of birth was selected
+[INFO ] 2024-08-09 08:56:26.491 [main] StudentRegistrationForm - Mobile number field was populated
+[INFO ] 2024-08-09 08:56:26.760 [main] StudentRegistrationForm - First subject option was populated
+[INFO ] 2024-08-09 08:56:26.917 [main] StudentRegistrationForm - Second subject option was populated
+[INFO ] 2024-08-09 08:56:27.012 [main] StudentRegistrationForm - Third subject option was populated
+[INFO ] 2024-08-09 08:56:27.108 [main] StudentRegistrationForm - Current address was populated
+[INFO ] 2024-08-09 08:56:27.256 [main] StudentRegistrationForm - State option was selected
+[INFO ] 2024-08-09 08:56:27.369 [main] StudentRegistrationForm - City option was selected
